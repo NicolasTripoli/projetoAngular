@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Teste",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Teste2",
+      "price": 3.89
+    },
+    {
+      "id": 3,
+      "name": "Teste3",
+      "price": 9.89
+    },
+    {
+      "id": 4,
+      "name": "Teste4",
+      "price": 57.89
+    },
+    {
+      "id": 5,
+      "name": "Teste5",
+      "price": 50.89
+    },
+    {
+      "id": 6,
+      "name": "Teste de adição",
+      "price": 10000.89
+    },
+    {
+      "id": 7,
+      "name": "Teste de adição2",
+      "price": 10001.89
+    }
+  ]
+}
